@@ -1,6 +1,6 @@
 <p align="center">
  I don't like Coding.
-But coding allows me to build something I like. 
+But coding allows me to build things I like. 
  </p>
 <p align="center">
  
